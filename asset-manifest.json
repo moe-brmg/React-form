@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-form/static/css/main.79c64945.chunk.css",
-    "main.js": "/React-form/static/js/main.37a02e83.chunk.js",
-    "main.js.map": "/React-form/static/js/main.37a02e83.chunk.js.map",
+    "main.css": "/React-form/static/css/main.afe2195e.chunk.css",
+    "main.js": "/React-form/static/js/main.61e4c573.chunk.js",
+    "main.js.map": "/React-form/static/js/main.61e4c573.chunk.js.map",
     "runtime-main.js": "/React-form/static/js/runtime-main.74a3ba4e.js",
     "runtime-main.js.map": "/React-form/static/js/runtime-main.74a3ba4e.js.map",
     "static/js/2.5bbc10d4.chunk.js": "/React-form/static/js/2.5bbc10d4.chunk.js",
     "static/js/2.5bbc10d4.chunk.js.map": "/React-form/static/js/2.5bbc10d4.chunk.js.map",
     "index.html": "/React-form/index.html",
-    "precache-manifest.99ae45e37c64ee3a5210949dc2de3a55.js": "/React-form/precache-manifest.99ae45e37c64ee3a5210949dc2de3a55.js",
+    "precache-manifest.856613869ff7a2c8309c4b26a8cef415.js": "/React-form/precache-manifest.856613869ff7a2c8309c4b26a8cef415.js",
     "service-worker.js": "/React-form/service-worker.js",
-    "static/css/main.79c64945.chunk.css.map": "/React-form/static/css/main.79c64945.chunk.css.map",
+    "static/css/main.afe2195e.chunk.css.map": "/React-form/static/css/main.afe2195e.chunk.css.map",
     "static/js/2.5bbc10d4.chunk.js.LICENSE.txt": "/React-form/static/js/2.5bbc10d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.74a3ba4e.js",
     "static/js/2.5bbc10d4.chunk.js",
-    "static/css/main.79c64945.chunk.css",
-    "static/js/main.37a02e83.chunk.js"
+    "static/css/main.afe2195e.chunk.css",
+    "static/js/main.61e4c573.chunk.js"
   ]
 }
